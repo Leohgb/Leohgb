@@ -1,5 +1,6 @@
 ## Bem vindo ao meu perfil meu nome é Leonardo Leal
 <br>
+Tenho 18 anos e atualmente moro em São Paulo. Cursei na Etec São Mateus no curso de informática para internet por 3 anos e atualmente estou Graduando em desenvolvimento de software multiplataforma na FATEC da Zona Leste. Conhecimentos em programação web, software, modelagem de banco de dados e Design Digital, tendo domínio básicos em java orientado a objeto, C, C#, javascript, mysql, conhecimento intermediário em CSS3, Node.js, angular, bootstrap, photoshop e avançado em HTML5.
 
 <div align="center">
   <a href="https://github.com/Leohgb">
