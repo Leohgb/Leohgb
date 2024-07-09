@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,nodejs,mysql,mongodb,typescript,cs,spring,bootstrap"/>
 <hr>
 <h3 align="left">Ferramentas:</h3>
-<img src="https://skillicons.dev/icons?i=git,vscode,vite,figma,photoshop"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,vite,figma,photoshop,postman"/>
 <hr>
 <h3 align="left">Contato:</h3>
 <p align="left">
